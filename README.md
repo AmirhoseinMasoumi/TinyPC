@@ -1,5 +1,5 @@
 # TinyPC
-TinyPC is a low-end development board.       
+TinyPIC is a low-end Linux Based development board.       
 
 ### Hardware Parameters
 - **CPU：** Allwinner V3S， ARM Cortex-A7, 1.2GHz max       
