@@ -41,4 +41,8 @@ TinyPIC is a low-end Linux Based development board.
 
 ---
 
+![Back](https://github.com/AmirhoseinMasoumi/TinyPC/blob/main/Assets/Images/Back.png)
+
+---
+
 ![Layers](https://github.com/AmirhoseinMasoumi/TinyPC/blob/main/Assets/Images/Layers.png)
