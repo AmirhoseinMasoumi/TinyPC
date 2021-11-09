@@ -5,6 +5,7 @@ TinyPIC is a low-end Linux Based development board.
 - **CPU：** Allwinner V3S， ARM Cortex-A7, 1.2GHz max       
 - **Memory：** 64MB DDR2 integrated 
 - **Storage：** TF Card Slot for boot
+- **OS** Camdroid/Linux
 
 ### Display Information
 #### General 40P RGB LCD FPC：
